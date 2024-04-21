@@ -59,4 +59,26 @@ File Sharing App is a Python application with a graphical user interface (GUI) t
 - The client attempts to connect to the server using the specified IP address and port.
 
 ## Output
-![Output Screenshot](output_screenshot.png)
+- Login Page
+  
+![Output Screenshot](screenshots/login.png)
+
+- File sharing feature interface
+  
+![Output Screenshot](screenshots/file_sharing.png)
+
+- File bowsing and download
+  
+![Output Screenshot](screenshots/file_browsing.png)
+
+- connection msg
+![Output Screenshot](screenshots/conn_with_server.png)
+
+- pop msg file upload/Download and exit 
+
+![Output Screenshot](screenshots/pop_msg.png)
+![Output Screenshot](screenshots/exit.png)
+
+- closing connection
+
+![Output Screenshot](screenshots/close_conn.png)
